@@ -8,3 +8,4 @@
 　  
 ## Related Blog (Written in Japanese)
 
+- [MySQL8系でutf8mb4なテーブルに4バイトのUnicode文字🍣🍺があっても、JetBrains系IDEやDataGripにて確認できるようにする - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2023/07/12/234157)
